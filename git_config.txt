@@ -1,0 +1,2 @@
+git config --global user.name "mireginato"
+git config --global user.email "michele.reginato@iiseinaudiscarpa.edu.it"
